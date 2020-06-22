@@ -1,3 +1,4 @@
+# Author giri110890
 import random
 
 

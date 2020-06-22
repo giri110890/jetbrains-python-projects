@@ -1,4 +1,5 @@
 # Write your code here
+# Author giri110890
 class CoffeeMachine:
     available_amount_of_water = 400
     available_amount_of_milk = 540

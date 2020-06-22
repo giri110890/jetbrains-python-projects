@@ -1,3 +1,4 @@
+# Author giri110890
 # write your code here
 game = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 game_set = ("X", "O")
